@@ -1,1 +1,8 @@
 vamos ver!
+
+git status
+git add " "
+git add .
+git commit -m " "
+git remote add origin
+git push <>
