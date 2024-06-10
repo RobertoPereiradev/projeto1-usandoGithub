@@ -8,3 +8,6 @@ git remote add origin // localização da nuvem
 git push // coloca na nuvem
 git reflog // histórico, com a mais atual no topo
 git reset --hard [(id)] // mudar entre as versões
+git branch // mostra a branch principal
+git branch [(nome)] // o nome comum é staging; adiciona outra branch(galho)
+git checkout [(nome)] // troca para a branch em questão
