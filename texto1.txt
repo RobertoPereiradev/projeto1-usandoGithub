@@ -1,10 +1,2 @@
 vamos ver!
-
-git status //verifica atualizações
-git add "[(nome)]" //adiciona um arquivo ou sua atualização
-git add . //adiciona um arquivo
-git commit -m "[(nome)]" // cria e dá nome à nova versão do arquivo
-git remote add origin // localização da nuvem
-git push // coloca na nuvem
-git reflog // histórico, com a mais atual no topo
-git reset --hard [(id)] // mudar entre as versões
+Parece que nada há cá!
