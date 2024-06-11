@@ -14,6 +14,6 @@ git branch [(nome)] // o nome comum é staging; adiciona outra branch(galho)
 git checkout [(nome)] // troca para a branch em questão
 git merge [(nome)] // atualiza a branch em questão com a atual
 git pull // atualiza a brach atual com os dados mais novos da nuvem (usado em desenvolvimentos mutuos)
-git checkout -b [(nome da branch)] [(nome da branch em que será feito a cópia)]
+git checkout -b [(nome da branch)] [(nome da branch em que será copiada)] // cria uma branch a partir de uma cópia de outra branch
 
-touch .gitignore // cria um arquivo para colocar o caminho do que deve ser ignorado e deve ser adicionado
+touch .gitignore // cria um arquivo para colocar o caminho do que deve ser ignorado (deve ser adicionado depois)
