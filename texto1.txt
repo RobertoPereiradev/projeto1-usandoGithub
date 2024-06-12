@@ -5,10 +5,10 @@ git init // inicializa um ovo repositório
 git add "[(nome)]" //adiciona um arquivo ou sua atualização
 git add . //adiciona um arquivo
 git commit -m "[(nome)]" //cria e dá nome à nova versão do arquivo
-git remote add origin //localização da nuvem
+git remote add origin [(link do site)] //localização da nuvem
 git push //coloca na nuvem
 git reflog //histórico, com a mais atual no topo
-git reset --hard [(id)] //mudar entre as versões
+git reset --hard [(id)] //mudar entre as versões do branch
 
 git branch // mostra a branch principal
 git branch [(nome)] // o nome comum é staging; adiciona outra branch(galho)
