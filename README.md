@@ -1,1 +1,1 @@
-# projeto1-usandoGithub
+# projeto-usandoGithub
