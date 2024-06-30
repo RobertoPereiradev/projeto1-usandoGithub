@@ -17,5 +17,5 @@ git merge [(nome)] // atualiza a branch em questão com a atual
 git pull // atualiza a brach atual com os dados mais novos da nuvem (usado em desenvolvimentos mutuos)
 git checkout -b [(nome da branch)] [(nome da branch em que será copiada)] // cria uma branch a partir de uma cópia de outra branch
 
-touch .gitignore // cria um arquivo para colocar o caminho completo do que deve ser ignorado (deve ser adicionado depois)
+touch .gitignore // cria um arquivo para colocar o caminho completo do que deve ser ignorado (deve ser adicionado dentro dele depois)
 pull request // é feito no github. Nele você escolhe de onde sai e de onde vai esse pull
