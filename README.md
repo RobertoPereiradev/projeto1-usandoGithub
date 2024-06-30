@@ -1,1 +1,1 @@
-# projeto-usandoGithub
+# Atividades realizadas visando treinar funcionalidades do Git
